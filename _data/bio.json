@@ -12,75 +12,6 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "interests": [
-      {
-        "name": "tech building",
-        "keywords": [
-          "PC and keyboard enthusiast"
-        ]
-      },
-      {
-        "name": "gaming",
-        "keywords": [
-          "Valorant"
-        ]
-      },
-      {
-        "name": "eating",
-        "keywords": [
-          "I just really like food"
-        ]
-      }
-    ],
-    "skills": [
-      {
-        "name": "Techware building",
-        "level": "Intermediate",
-        "keywords": [
-          "PC",
-          "keyboard"
-        ]
-      }
-    ],
-    "education": [
-      {
-        "institution": "University of Hawaii, Honolulu, HI",
-        "area": "BBA Management Information System (expected Spring, 2023)",
-        "studyType": "B.S.",
-        "startDate": "Aug 2019",
-        "endDate": "Present",
-        "gpa": "3.67"
-      }
-    ],
-    "work": [
-      {
-        "company": "East-West Center",
-        "position": "Office assistant",
-        "startDate": "2019-09-16",
-        "endDate": "2020-03-14",
-        "summary": "Assisted other office workers mixed tasks",
-        "highlights": [
-          "Worked a bit on excel and word docs, did errand runs, make handmade card templates and name tags, set up rooms for meetings"
-        ]
-      }
-    ],
-    "awards": [
-      {
-        "title": "Dean's List",
-        "date": "2020-Present",
-        "summary": [
-          "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school.",
-          "Do not receive grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)"
-        ] 
-      }
-    ],
-    "references": [
-      {
-        "name": "Available upon request",
-        "reference": ""
-      }
-    ]
-  },
   "interests": [
     {
       "name": "tech building",
@@ -146,4 +77,5 @@
       "name": "Available upon request"
     }
   ]
+}
 }
