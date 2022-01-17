@@ -7,9 +7,7 @@
     "phone": "808-799-8880",
     "website": "https://uhcsuen.github.io",
     "summary": "I am studying for MIS at the University of Hawaii. I expect to graduate in Spring, 2023.",
-    "location": {
-      "address": "",
-      "postalCode": "",
+    "location": {  
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -64,16 +62,13 @@
       "studyType": "B.S.",
       "startDate": "2019",
       "endDate": "Present",
-      "gpa": "3.67",
-      "courses": [
-      ]
+      "gpa": "3.67"
     }
   ],
   "work": [
     {
       "company": "East-West Center",
       "position": "office assistant",
-      "website": "",
       "startDate": "2019-09-16",
       "endDate": "2020-03-14",
       "summary": "Assisted other office workers mixed tasks",
@@ -86,15 +81,13 @@
     {
       "title": "Dean's List",
       "date": "2020-Present",
-      "summary": [ "Earn a semester GPA of 3.5 or higher based on 12 credits or more."
-                   "Do not receive grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)"
-      ]
+      "summary":  
+        "Earn a semester GPA of 3.5 or higher based on 12 credits or more."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Available upon request"
     }
   ]
 }
