@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "basics": {
       "name": "Carter Suen",
       "label": "Shidler Undergraduate",
@@ -26,6 +27,20 @@
           "url": "http://linkedin.com/in/uhcsuen"
         }
       ]
+=======
+  "basics": {
+    "name": "Carter Suen",
+    "label": "Shidler Undergraduate",
+    "picture": "https://uhcsuen.github.io/images/Screenshot_25_300x300.png",
+    "email": "csuen@hawaii.edu",
+    "phone": "808-799-8880",
+    "website": "https://uhcsuen.github.io",
+    "summary": "I am studying for MIS at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": {  
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+>>>>>>> 9410bd6418c89b5a6eb859603cfe8c51066e981f
     },
     "interests": [
       {
@@ -95,4 +110,74 @@
         "reference": ""
       }
     ]
+<<<<<<< HEAD
   }
+=======
+  },
+  "interests": [
+    {
+      "name": "tech building",
+      "keywords": [
+        "PC and keyboard enthusiast"
+      ]
+    },
+    {
+      "name": "gaming",
+      "keywords": [
+        "Valorant"
+      ]
+    },
+    {
+      "name": "eating",
+      "keywords": [
+        "I just really like food."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Tech Building",
+      "level": "intermediate",
+      "keywords": [
+        "PC",
+        "keyboards"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "BBA Management Information System (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019",
+      "endDate": "Present",
+      "gpa": "3.67"
+    }
+  ],
+  "work": [
+    {
+      "company": "East-West Center",
+      "position": "office assistant",
+      "startDate": "2019-09-16",
+      "endDate": "2020-03-14",
+      "summary": "Assisted other office workers mixed tasks",
+      "highlights": [
+        "Worked a bit on excel and word docs, did errand runs, make handmade card templates and name tags, set up rooms for meetings"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2020-Present",
+      "summary":  
+        "Earn a semester GPA of 3.5 or higher based on 12 credits or more."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
+>>>>>>> 9410bd6418c89b5a6eb859603cfe8c51066e981f
