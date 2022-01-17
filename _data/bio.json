@@ -1,5 +1,6 @@
 {
   "basics": {
+<<<<<<< HEAD
     "name": "Carter Suen",
     "label": "Shidler Undergraduate",
     "picture": "https://uhcsuen.github.io/images/Screenshot_25_300x300.png",
@@ -8,6 +9,18 @@
     "website": "https://uhcsuen.github.io",
     "summary": "I am studying for MIS at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {  
+=======
+    "name": "Molly Maluhia",
+    "label": "Student",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+>>>>>>> parent of ae6c78d (Update bio.json)
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -15,33 +28,55 @@
     "profiles": [
       {
         "network": "github",
-        "username": "uhcsuen",
-        "url": "http://github.com/uhcsuen"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
+<<<<<<< HEAD
         "username": "uhcsuen",
         "url": "www.linkedin.com/in/uhcsuen"
+=======
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+>>>>>>> parent of ae6c78d (Update bio.json)
       }
     ]
   },
   "interests": [
     {
+<<<<<<< HEAD
       "name": "tech building",
+=======
+      "name": "internet of things",
+>>>>>>> parent of ae6c78d (Update bio.json)
       "keywords": [
-        "PC and keyboard enthusiast"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "gaming",
+      "name": "data mining",
       "keywords": [
-        "Valorant"
       ]
     },
     {
+<<<<<<< HEAD
       "name": "eating",
+=======
+      "name": "artificial intelligence",
+>>>>>>> parent of ae6c78d (Update bio.json)
       "keywords": [
-        "I just really like food."
       ]
     }
   ],
