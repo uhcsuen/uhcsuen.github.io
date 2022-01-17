@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: My Love For Tech
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-17
 labels:
