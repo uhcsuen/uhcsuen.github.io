@@ -1,128 +1,159 @@
 {
-  "basics": {
-<<<<<<< HEAD
-    "name": "Carter Suen",
-    "label": "Shidler Undergraduate",
-    "picture": "https://uhcsuen.github.io/images/Screenshot_25_300x300.png",
-    "email": "csuen@hawaii.edu",
-    "phone": "808-799-8880",
-    "website": "https://uhcsuen.github.io",
-    "summary": "I am studying for MIS at the University of Hawaii. I expect to graduate in Spring, 2023.",
-    "location": {  
-=======
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
->>>>>>> parent of ae6c78d (Update bio.json)
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+    "basics": {
+      "name": "Carter Suen",
+      "label": "Shidler Undergraduate",
+      "picture": "https://uhcsuen.github.io/images/Screenshot_25_300x300.png",
+      "email": "csuen@hawaii.edu",
+      "phone": "808-333-4444",
+      "website": "https://uhcsuen.github.io",
+      "summary": "I am studying for MIS at the University of Hawaii. I expect to graduate in Spring, 2023.",
+      "location": {
+        "address": "",
+        "postalCode": "96817",
+        "city": "Honolulu",
+        "countryCode": "USA",
+        "region": "Hawaii"
+      },
+      "profiles": [
+        {
+          "network": "github",
+          "username": "uhcsuen",
+          "url": "http://github.com/uhcsuen"
+        },
+        {
+          "network": "linkedin",
+          "username": "uhcsuen",
+          "url": "http://linkedin.com/in/uhcsuen"
+        }
+      ]
     },
-    "profiles": [
+    "interests": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "name": "tech building",
+        "keywords": [
+          "PC and keyboard enthusiast"
+        ]
       },
       {
-        "network": "linkedin",
-<<<<<<< HEAD
-        "username": "uhcsuen",
-        "url": "www.linkedin.com/in/uhcsuen"
-=======
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "name": "gaming",
+        "keywords": [
+            "Valorant"
+        ]
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "name": "artificial intelligence",
+        "keywords": [
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages and Frameworks",
+        "level": "",
+        "keywords": [
+          "C",
+          "C++",
+          "Java",
+          "Javascript",
+          "Assembly",
+          "Common Lisp"
+        ]
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
->>>>>>> parent of ae6c78d (Update bio.json)
+        "name": "Toolsets/OS",
+        "level": "",
+        "keywords": [
+          "MacOS",
+          "Ubuntu",
+          "Git/GitHub",
+          "g++",
+          "TI LaunchPad"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Hawaii, Honolulu, HI",
+        "area": "Computer Science (expected Spring, 2018)",
+        "studyType": "B.S.",
+        "startDate": "2013-09-01",
+        "endDate": "Present",
+        "gpa": "",
+        "courses": [
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "UH Manoa Board of Publications",
+        "position": "Web Developer",
+        "website": "",
+        "startDate": "2015-08-01",
+        "endDate": "Present",
+        "summary": "Head of online presence for Ka Leo",
+        "highlights": [
+          "Maintain, update, and oversee official college newspaper website",
+          "Drive, design and build student-community projects for UH Manoa"
+        ]
+      },
+      {
+        "company": "UH Information Technology Services",
+        "position": "Help Desk Consultant",
+        "website": "http://www.hawaii.edu/its/",
+        "startDate": "2015-01-01",
+        "endDate": "2016-03-15",
+        "summary": "",
+        "highlights": [
+          "Troubleshoot software, hardware and networking issues over the phone",
+          "Answer phone and email responses to the ITS Help Desk"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Center for Renewable Energy and Island Sustainability",
+        "website": "http://manoa.hawaii.edu/reis",
+        "position": "Software Developer",
+        "startDate": "2016-01-01",
+        "endDate": "Present",
+        "summary": "Lead developer for weather sensing project",
+        "highlights": [
+          "Design firmware for distributed weather sensor network",
+          "Maintain custom data collection and storage infrastructure"
+        ]
+      },
+      {
+        "organization": "",
+        "website": "",
+        "position": "Professional organization involvement",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": [
+          "Chair, ACM Manoa, 2016-Present",
+          "Member, IEEE Student Branch, 2014-Present",
+          "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "B+ Scholarship",
+        "date": "2013-Present",
+        "awarder": "State of Hawaii",
+        "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      },
+      {
+        "title": "First place",
+        "date": "2015",
+        "awarder": "University of Hawaii Micromouse Competition",
+        "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request",
+        "reference": ""
       }
     ]
-  },
-  "interests": [
-    {
-<<<<<<< HEAD
-      "name": "tech building",
-=======
-      "name": "internet of things",
->>>>>>> parent of ae6c78d (Update bio.json)
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-<<<<<<< HEAD
-      "name": "eating",
-=======
-      "name": "artificial intelligence",
->>>>>>> parent of ae6c78d (Update bio.json)
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Tech Building",
-      "level": "intermediate",
-      "keywords": [
-        "PC",
-        "keyboards"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "BBA Management Information System (expected Spring, 2023)",
-      "studyType": "B.S.",
-      "startDate": "2019",
-      "endDate": "Present",
-      "gpa": "3.67"
-    }
-  ],
-  "work": [
-    {
-      "company": "East-West Center",
-      "position": "office assistant",
-      "startDate": "2019-09-16",
-      "endDate": "2020-03-14",
-      "summary": "Assisted other office workers mixed tasks",
-      "highlights": [
-        "Worked a bit on excel and word docs, did errand runs, make handmade card templates and name tags, set up rooms for meetings"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2020-Present",
-      "summary":  
-        "Earn a semester GPA of 3.5 or higher based on 12 credits or more."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
-}
+  }
