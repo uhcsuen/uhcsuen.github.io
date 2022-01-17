@@ -12,18 +12,19 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-  "profiles": [
-    {
-      "network": "github",
-       "username": "uhcsuen",
-      "url": "http://github.com/uhcsuen"
-    },
-    {
-      "network": "linkedin",
-      "username": "uhcsuen",
-       "url": "http://linkedin.com/in/uhcsuen"
-    }
-   ],
+    "profiles": [
+      {
+        "network": "github",
+        "username": "uhcsuen",
+        "url": "http://github.com/uhcsuen"
+      },
+      {
+        "network": "linkedin",
+        "username": "uhcsuen",
+        "url": "http://linkedin.com/in/uhcsuen"
+      }
+    ]
+  },
   "interests": [
     {
       "name": "tech building",
@@ -89,5 +90,4 @@
       "name": "Available upon request"
     }
   ]
-}
 }
