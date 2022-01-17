@@ -1,33 +1,4 @@
 {
-<<<<<<< HEAD
-    "basics": {
-      "name": "Carter Suen",
-      "label": "Shidler Undergraduate",
-      "picture": "https://uhcsuen.github.io/images/Screenshot_25_300x300.png",
-      "email": "csuen@hawaii.edu",
-      "phone": "808-333-4444",
-      "website": "https://uhcsuen.github.io",
-      "summary": "I am studying for MIS at the University of Hawaii. I expect to graduate in Spring, 2023.",
-      "location": {
-        "address": "",
-        "postalCode": "96817",
-        "city": "Honolulu",
-        "countryCode": "USA",
-        "region": "Hawaii"
-      },
-      "profiles": [
-        {
-          "network": "github",
-          "username": "uhcsuen",
-          "url": "http://github.com/uhcsuen"
-        },
-        {
-          "network": "linkedin",
-          "username": "uhcsuen",
-          "url": "http://linkedin.com/in/uhcsuen"
-        }
-      ]
-=======
   "basics": {
     "name": "Carter Suen",
     "label": "Shidler Undergraduate",
@@ -40,7 +11,6 @@
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
->>>>>>> 9410bd6418c89b5a6eb859603cfe8c51066e981f
     },
     "interests": [
       {
@@ -110,9 +80,6 @@
         "reference": ""
       }
     ]
-<<<<<<< HEAD
-  }
-=======
   },
   "interests": [
     {
@@ -180,4 +147,3 @@
     }
   ]
 }
->>>>>>> 9410bd6418c89b5a6eb859603cfe8c51066e981f
