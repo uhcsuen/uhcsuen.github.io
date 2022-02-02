@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: First time doing WODs
+title: First Time Doing WODs
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-01
 labels:
