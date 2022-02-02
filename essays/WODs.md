@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: First time doing WODs
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-1
+date: 2022-02-01
 labels:
   - Coding
   - Learning
