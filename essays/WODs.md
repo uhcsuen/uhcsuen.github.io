@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Enrolling Into ITM352
+title: First time doing WODs
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-1
 labels:
